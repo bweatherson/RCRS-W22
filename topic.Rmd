@@ -1,0 +1,50 @@
+---
+title: "Finding a Topic"
+author: "Brian Weatherson"
+date: "2/9/2022"
+output: html_document
+---
+
+This can be one of the hardest things to do as a grad student - how do you find a topic to write on. And I'm not going to have anything like an answer here. But I wanted to set out a few general guidelines.
+
+### Write a Paper, not a Thesis
+
+It's really hard to figure out what's a good thesis length topic. Most people who try are going to find something that's much too big. So for most people (very much not all), the simple advice is to first write a paper, and let the thesis take care of itself. There are so many ways to turn a paper into a thesis - you can apply the same techniques to related problems, you can address some questions that were left open by the paper, and so on. And you read many more papers than you read books. So at first you should try to write a very good paper.
+
+### Find Your Passion
+
+This is your big chance! You aren't being told what to write about. Yes, it's intimidating that the search space is so large. But this is what you got into this for - take the chance that's on offer! This might seem like either boring advice or ridiculous advice, but there is a lot behind it.
+
+First, there are no safe options here. Getting a philosophy job these days requires standing out. Doing a good thesis on a familiar topic doesn't stand out. There are literally hundreds of those published every year. Don't think that you're hurting your professional chances by working on what you care about when you should be writing on grounding, or reasons, or whatever, instead. Trying to do a good version of what literally everyone else does is the really risky play here.
+
+Second, you're going to need to commit to this project for several years, and really be able to sell it at the end. Maybe you're the kind of person who can say "I don't care about accuracy-first epistemology, but if that's what it takes to be successful I'll be enthusiastic about it every day for four years." Never say never, but I don't like your chances.
+
+Third, if you're worried a project is too out there, just run it by an advisor. If we think it isn't going to work professionally, we'll just say so. Or probably we'll try to figure out some way to make it sound like it does fit, and if that doesn't work we'll say maybe try something else.
+
+But you really shouldn't think the categories are set in stone. My thesis was on the pros and cons of various formal models for uncertainty, which I got into because I didn't like the existing models. At the time we thought of this as a somewhat niche subject within philosophy of science - most of the literature at that time was not even in philosophy, but what was in philosophy was typically in philosophy of science journals. But we thought that if we pushed our luck we could call it epistemology, since it was to do with rationality. That seemed like a stretch, but maybe it could work. And now a generation later it is literally the core topic in epistemology. Things change.
+
+### Someone Is Wrong On the Internet
+
+You can't really write a thesis solely on how someone is wrong. (What if the someone is Aristotle or Kant, or Fine or Williamson? It's closer, but still no.) But if there is a really prominent view that is approaching the status of orthodoxy, and you think that you can show that it is wrong, and you can do better, then go for it. But note the 'you can do better' part. Why Kit Fine is wrong about grounding isn't a great thesis, even if everyone agrees with Fine on that point. Why he's wrong, and what he should have said instead, now we're getting somewhere.
+
+### Look in the Cracks
+
+Working on a question that everyone else works on is boring and it's really hard to get ahead that way. But what if you work on a pair of questions that each have lots of people working on them, but few people work on both? And you don't just look at those questions individually, but at the issues that arise when you try to answer them simultaneously? Or when you use tools familiar to one question to make progress on another? Now you can find something that looks both very familiar - these are familiar questions and familiar tools - yet totally novel. It's in the cracks between the literatures that some of the best work gets done.
+
+Take one now familiar example. Through the mid-2000s there was very little work, ever, at the intersection of social/political philosophy and philosophy of language. (This isn't just an anecdotal impression, you can see it in the data.) And then it took off, and now it's everywhere. If you'd sat down with a map not of philosophy topics, but just of big-picture fields, and asked where the unexplored boundary spaces were, you probably could have seen the opening in social and political philosophy of language. Now it's well inhabited territory, though there is still of course much to say.
+
+But you don't have to look just at big picture things like 'political philosophy' and 'philosophy of language' to work out where the spaces might be. (Though I do think social and political philosophy of mind will be A Thing sooner or later. It is a little already with implicit bias, but I think there is much more there.) Just take any two questions you think are interesting and connected, but which no one has previously connected. Given hyper-specialisation, you really might be able to make progress on both by bringing them into contact. And you won't look like nearly as much of a narrow specialist with this One Weird Trick.
+
+### Bring in Non-Philosophical Work
+
+This is a Michigan speciality, because of the culture of cognates, but it's still worth stressing. Philosophers as a group don't know nearly as much non-philosophical work as they should. You can make huge gains by bringing even undergraduate level work on a cognate field to bear on various topics. Now you have to be careful here - don't think that your minor in biology will mean that you can waltz into Philosophy of Biology; they know more biology than you do. But in a lot of areas, a bit of outside knowledge goes a long way. And, again, it looks great at hiring time. Someone who makes genuine progress on a philosophical question by engaging with contemporary work in sociology, or art history, or epidemiology(!), looks both like a good philosopher and a good colleague.
+
+### Consider Doing Historical Work
+
+There are some areas of history where it's not really worth trying to play unless you are committed to this being your sole focus in research. But there are signs of a trend in philosophy towards slightly more breadth in which philosophical work gets taken seriously. This is a (I think welcome) reaction to how incredibly narrow the canon got in the late 20th early 21st century. So there is some space to work here. And again, it can be professionally useful. You will not get a job solely on your work on de Staël; there are no jobs advertised in that. But could you get a job teaching 18th/19th century philosophy, and becoming one of the leading philosophical experts on de Staël? It would depend how good it is (and maybe de Staël is a stretch to treat as a philosopher). But teaching colleges have a huge demand for history teachers, so being able to teach modern history is valuable. And you'll stand out this way. 
+
+More generally, we don't see as much these days as we used to of philosophers who are not primarily historians, but who do history seriously. You don't see as many people as you used to who could write on applications of the Condorcet Jury Theorem to philosophical questions, and also on Condorcet's life and works. And I feel there could be more openings here.
+
+### Summaries
+
+None of this is anything like an algorithm for finding a topic. It's a really hard task. What I mean to do is to make some suggestions. But it's something that you should be working through with your advisors, and your friends, from an early stage.

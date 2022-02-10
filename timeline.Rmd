@@ -1,0 +1,75 @@
+---
+title: "A Grad School Timeline"
+author: "Brian Weatherson"
+date: "2/9/2022"
+output: html_document
+---
+
+It's simplest to divide grad school into three parts (especially if your plan is to go into academic employment). In each part you have a primary plan, and a goal for making the next part of the plan go well. The parts take roughly equal time if everything goes well, and in the smoothest case are a plan for finishing in 5 years or less. (Things rarely go smoothly, but let's start with what happens if they do.)
+
+### Part One - Coursework
+
+Your primary goal here is simply to complete the coursework. The secondary goals are, in the long run, more important. They are
+
+- To figure out what you would like to start researching on;
+- To make sure you have relevant background to that research agenda;
+- To learn about possible connections between your research and other areas.
+
+These things are important, but they shouldn't undermine the most important thing about coursework: **you have to finish it**. For every student I've seen who should have taken more care in their courses, and whose research suffered due to that lack of care, I've seen ten who should have finished their courses more speedily, and whose research suffered from a lack of time to complete it. Survive and advance.
+
+This stage should take between 3 and 5 semesters, depending on (a) how many prior course credits you have and (b) how challenging the transition to grad school and Ann Arbor is.
+
+### Part Two - Getting to a dossier
+
+Your primary goal here is to produce a **dossier**. This should contain two parts.
+
+- A draft chapter (not a lit survey, in case you had any plans on doing one of them)
+- A plan for the rest of the thesis.
+
+Your secondary goals here should include
+
+- Finding an advisor, building a working relationship with them, and, if it isn't working, changing the advisor.
+- Finding some way to engage regularly with that advisor, ideally weekly or bi-weekly meetings.
+- Finding 1-3 other people from the philosophy department to be on your committee, and having some (not necessarily regularly scheduled) contact with them.
+- It's less crucial, but you'll eventually need a non-philosophy person on your thesis committee, and it can be helpful to have a non-Michigan person on the committee. Often these are recruited later, but they can be recruited now.
+- Getting whatever background you need, either skills or knowledge, to complete the thesis. This will usually mean reading a lot, but it might also mean...
+- Taking courses either in philosophy or outside it to provide these background skills or knowledge.
+- Developing habits of how to write, and especially how to edit.
+- Presenting material. At a minimum that means presenting it at Michigan, either in candidacy seminar, or GSWG, or other reading groups. Ideally it means presenting at conferences in the US or abroad.
+- Spending some time outside Ann Arbor, either to be in contact with experts in other locations, or just to see how your ideas fly when they aren't in Ann Arbor.
+
+Again, ideally this all happens in 3-5 semesters, but with a huge variations, especially depending on how long it takes to find a topic, and it can easily be at the long end of that scale. (See the other document I'm sending around on how to find a topic!)
+
+### Part Three - A Thesis and a Job
+
+Your primary goals here are to
+
+- Produce a dissertation
+- Find a job
+
+Nothing too hard then! The big thing to think about is how this differs from part two, and most of the secondary goals are easiest to state in terms of contrasts.
+
+- As well as presenting your material, you should now be thinking about trying to get some of it, or at least 1 piece, into publication. My view, and I think the department's view, is that it isn't important to get lots of pieces into publications, but it's now time to work on something.
+- You should be presenting at more venues, and fancier venues.
+- You should be meeting regularly with the committee, and it should be fully formed, and really shouldn't change except in fairly extreme circumstances.
+- You should get much better at editing material, most importantly your own.
+- You should get much better at summarizing your material, both individual papers and the overall project.
+- You shouldn't need to be developing skills, taking courses, visiting other places just to get a feel for the culture, or these other backgrounds - it's now a race for the finish line.
+- And you shouldn't be changing topics now; you've got the rest of your career to do that - now it's a matter of getting this project done.
+
+At the end of this stage, i.e., the end of your time as a graduate student, you should have a dissertation, a publication or two, a good list of conference presentations and, ideally, a job.
+
+Now in most cases, this will not be a _permanent_ job. Most students, even very successful ones, start their careers with temporary jobs. Now some temporary jobs are things like post-docs at NYU or Princeton, or JRFs at Oxbridge. (We've not landed the latter recently, but we have had students with post-docs at NYU and Princeton, so these are realistic, if hopeful, scenarios.)
+
+And what do you do if you get one of these good but impermanent jobs? Well, you mostly do the same thing you were doing in stage three, but with more emphasis on publication and less emphasis on meeting regularly with advisors. You should still stay in touch with advisors. Some schools think advising ends at tenure. (This was explicitly the view of the department when I was at Cornell.) At Michigan the usual practice is that advising reduces dramatically when one gets a permanent position, but especially if there's a tough tenure case coming up, it is helpful to stay in regular contact with one's advisor through that time.
+
+I don't mean these timelines to be anything like definitive, it's more just a guide. And it's really hard to say much about what's general. But maybe it's worth putting in print how I normally think about what factors are relevant to how quickly I think someone should be proceeding. These are the four things that most commonly affect time to degree.
+
+1. Did the student come in with any previous graduate experience? On average, I'd say students coming straight from a BA take 6 months or so longer to hit milestones than students with prior grad experience, maybe 12 months.
+2. Does the project require extensive technical skills, usually meaning mathematical skills, lab work, or languages? How long it takes to acquire those can vary, but this can easily add 12 months to the duration of the project.
+3. Did the student change topic sometime into stage 2?
+4. Did the student have health issues, family issues, or other kinds of external crises that meant they were basically treading water (i.e., teaching and maintaining skills, but not much more)?
+
+The last two can result in arbitrarily long extensions. This is a fairly wide range of factors, but they don't affect everyone. We've had students who have come here from an MA program to do work that either didn't need particularly special technical skills (or they had the skills needed), who didn't change topic, and who didn't have any notable health issues. I think those students should comfortably finish in 5 years. They should be done with part 1 in 3 semesters (4 at the outside), part 2 by the end of 7 semesters (8 at the outside), and the whole thing in 10 semesters. What if you're not in such a lucky position? Well, start adding 1-2 semesters for each of these four factors that apply to give a sense of where you _should_ be. (And especially stage 4 there can be one crisis after another; this isn't exactly an algorithm.)
+
+The point is that if everything goes right, the 6 years guaranteed funding gives you time to finish with room to spare. But it is hard to get done in 6 if you aren't on the lucky side of 2 of these things, let alone if you're on the unlucky side of 3-4.

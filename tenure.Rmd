@@ -1,0 +1,59 @@
+---
+title: "Tenure"
+author: "Brian Weatherson"
+date: "2/9/2022"
+output: html_document
+---
+
+If you're just starting grad school, then thinking about tenure is probably not your top priority right now. It's, in all likelihood, 15 years away. But it's worth thinking about, because it affects everything in the North American job market. 
+
+(I'm going to use "North America" here to mean the US and Canada. I don't know enough about places elsewhere in the Americas to talk about them with any confidence. Note that what I say here typically does not apply in Europe or Australasia, unless those places have adopted US conventions. And whether it applies in Asian universities seems to vary a lot, with connectedness to the US being a big factor.)
+
+Here's how a typical career of a successful academic (in North America - I'll stop using this qualifier now) goes.
+
+- Get PhD, in 5-8 years.
+- Do 0-5 years in short term jobs. (These are typically called post-docs if they are light teaching, lectureships if they are heavy teaching.)
+- Get a **tenure-track** job, and be in it for 6-7 years.
+- Get **tenure**.
+
+Adding up those numbers, we see the getting tenure is 11-20 years away from starting grad school, and even for the most successful people, you should expect a number in the middle of that range.
+
+Tenure means, in practice, you can't get fired for all but two reasons. One is really gross rule violations (embezzlement, sexual harassment), and the other is that your program gets shut down. Both happen. And I have to remind you that embezzlement is bad, and sexual harassment is bad, and you shouldn't do them. But people getting fired for these reasons is rare. Note that ex-President Schlissel did not have his tenure revoked for the acts that led to him being ex-President; it's hard to fire someone with tenure. The details of what tenure amounts to are less important, for our story, than how one gets there.
+
+One gets a tenured job, in practice, by getting a tenure-track job, then some years later going up for tenure, and being successful. There are two really big things to note about the whole 'going up for tenure' step.
+
+- It's not something that is decided by departments alone. Whether the candidate is successful is ultimately decided by Deans, or even higher up in controversial cases.
+- If you are on a tenure-track position, and you are unsuccessful in getting tenure, you lose your job. Not overnight, but usually at the end of that academic year. It's a military style up-or-out situation.
+
+This creates an incredibly high stress environment. It would be less stressful if this was a purely hypothetical situation. For instance, lots of jobs (both in North America and Europe) have a third year review at which one is either successful or is fired. But I've never known anyone to get fired at third-year review. (And if someone did I'd assume that embezzlement, sexual harassment, etc were involved.) But many, many people are unsuccessful at tenure. Indeed, some of the most famous philosophers did not get tenure, or left their tenure-track jobs because the writing was on the wall and they weren't going to get tenure. Very good people get turned down for tenure.
+
+It's perhaps not as bad as it used to be. When I was a grad student the stories (and these might be wrong; news gets distorted going over the Pacific) was that the last person to get tenure at Harvard was Warren Goldfarb, and before him it was Nelson Goodman. Tenure-track positions at Yale were called 'folding chairs' because no one was kept on. Nowhere, not even Yale, is quite like that nowadays. But lots of departments turn down people, including very good people.
+
+The famous stories of tenure denial all involve fancy departments, especially at private universities. But tenure denials are not restricted to fancy departments. People at smaller schools get turned down for tenure too, and this can be catastrophic for one's career prospects. Remember, these decisions are made by Deans. And Deans like saving money. And junior people cost less than senior people. So there is some incentive to have a hard-line on tenure decisions. And while I don't know the exact numbers, I do think there are plenty of places that are very willing to take such a hard-line. So this matters for everyone, not just people who plan to get jobs in the Ivy League.
+
+So what does it take to get tenure? This varies from place to place, but the following things are all taken into account.
+
+- Quantity of papers. There are exceptions, but it's tough to get tenure with less than 6-8 papers. (Jim Pryor had fewer than this, but one of them was "The Sceptic and the Dogmatist". Do not base your career plans on your ability to write a paper like that!)
+- Quality of publication venues. This is hard to quantify, but the fancier the school, the fancier they expect the publications to be. And a good number should be in anonymous peer reviewed publications.
+- Quality of papers. The department will read the papers, and make judgments about how good they think these papers are.
+- Quality of external reviews. A tenure review normally involves getting 6-8 experts in the candidate's field (or fields) to review the file. People take this job very seriously, reading the papers very carefully. And they write fairly honest reviews of how good the papers are.
+- Teaching record. In practice this often means teaching evaluations, but other things can count too.
+- Service record. Usually this isn't much of a factor, but I was once part of a tenure review where the candidate didn't have a great file, but had had to spend 3 years as department chair because of a series of unfortunate events. That certainly was taken into account.
+
+The external review is very important here. Ultimately most important decision about tenure is made at the Associate Dean level. (In practice it turns heavily on the advice the Associate Dean gets from faculty in other departments on the tenure and review committee.) And not being experts on the subject of the candidate’s work, they lean heavily on the external reviewers. If 1 of them is negative, it’s usually ok. If 2 are, things get dicey. 
+
+The focus on papers here is unusual. In sciences, the biggest deal (I’m told) is grants. In humanities it’s how the first book has gone and how the second is shaping up. (I read a lot of humanities files at Rutgers on the Associate Dean’s advisory committee.) There are only a handful of departments - us, linguistics, economics, political science - that are so centred on papers. And if you get an inter disciplinary job you’ll want to know the standards in both departments. But in philosophy it’s really all about the papers. 
+
+Why am I telling you all this if it's 15 years into the future? Because if and when you're applying for a tenure track position, a huge part of what the hiring department will be thinking about is tenure. In particular, **every search committee** takes seriously the question, **will this job candidate get tenure**.
+
+In response to that, I've started writing the following kind of line in reference letters (when it is true). If the candidate has enough papers for tenure in stage X (published, submitted, drafted, planned, whatever), I say that. And this seems to be helping when I've been able to say it. The big one on that list is 'drafted'. I think it helps a lot to know that there are 6-8 papers **in draft form**. There's a research agenda there, and it's just a matter of landing the plane, not getting it to take off.
+
+Why do departments care about this? Because tenure denials are really awful. They are obviously particularly awful for the person being denied tenure, but they are really awful for everyone. There are three reasons for this.
+
+First, no one actually likes doing searches and hiring. They are a lot of work, poorly compensated, at an already busy time of year. And the time at which people are most unhappy about the very idea of searching is when one search has just finished. They really don't like the idea of starting all over again, which is what tenure denial means.
+
+Second, it makes for really unpleasant times around the department. At the end of the day, you're basically firing someone. True, it's ultimately the Dean's office, not the department doing it. But the candidate always thinks that if the department really backed them, they'd probably have survived. And they are usually not entirely wrong. But the fired person doesn't go away like in a private workplace; they are still there being (quite reasonably) unhappy at the world. It's just terrible for everyone. Sometimes, when the writing is on the wall, this unhappy state of affairs can extend for years before the tenure denial, and this really isn't good for the mental health of anyone involved.
+
+Third, the department might not get the line back. Typically it takes 1-2 years to replace someone who leaves, and you're short-handed over that time. But sometimes you don't get to replace them at all. Because you can't really fire people at a university (that's the whole point of the tenure system), the way cost-cutting normally works is to not replace people who leave. So if you hire someone who doesn't get tenure, and there is a financial crunch in 7 years time, that line will just vanish. And that's a catastrophe. Normally it's possible to tell whether there will be a financial crunch in the next 2-3 years, but no one can make predictions 7 years out, so this is always a danger.
+
+So everyone wants to avoid this. That certainly doesn't mean that you need 6-8 papers in _Ethics_ or _Philosophy of Science_ to get hired. It doesn't even mean you need 6-8 papers in draft form. But the latter definitely helps. And having a research agenda, where the people hiring you can see what the file will look like, what it will be based around, who the external reviewers will be, and so on, is really really helpful. 
