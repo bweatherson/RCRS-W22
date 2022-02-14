@@ -1,0 +1,80 @@
+---
+title: "Summer"
+author: "Brian Weatherson"
+date: "2/14/2022"
+output: html_document
+---
+
+A few people asked about summer plans, so here are a few more detailed thoughts about how to make the most out of summers. They will be in six categories.
+
+1. Think ahead
+2. Be structured
+3. Have goals
+4. Think big
+5. Work on editing
+6. Collaborate
+
+### Think Ahead
+
+Especially in early summers, you are doing something you've never done before. You're working, on your own pace, towards a project whose finish is many years into the future. That fact is going to structure most of what we say here. But let's start by thinking about the _years into the future_ part. Think about what future you will want from your summer.
+
+- **Don't burn out**: Get some rest. Future you needs the energy.
+- **Experiment**: If you don't know it already, now's the time to find what work habits work best for you. Do you prefer reading on screens or on paper, and either way, in which kinds of format? Do you prefer writing in plain text or some kind of graphical format? Again, which kind of software for either? How do you like to take notes and index them for later retrieval. Do you work best in mornings, afternoons or evenings? Or do you read best at one time, write best at another, edit best at a third. Do you work best in coffee shops, libraries, offices or your apartment? Or are some of these better for different stages too? Do you use the same tools for planning papers as writing them? (I don't; I can only really plan on a whiteboard.) You've got plenty of time to find all these things out, and future you will be very grateful if present you finds a workflow that works for you.
+- **Don't just read - take notes**: Go back and look at a syllabus from four years ago. Pick three random papers from during the term that you must have read. How much do you remember of them? If you're like me, it's not a lot. Doing lots of reading now won't help when you're writing stuff up unless you remember stuff. So take lots of notes, and figure out a system that works for you for indexing those notes.
+- **Don't just talk - write stuff up**: If you are in a reading group (which you probably should be), take the time to write up the thoughts you have, and others have, on what you are reading. You won't really remember things otherwise, especially not in 2-4 years. A bonus side effect of this is that collectively writing up thoughts from a reading group is a natural way to start collaborating, and that's something grad students don't do enough of.
+- **Do the formatting now**: Are you going to spend too much time later on working on your LaTeX defaults or your Powerpoint template? (Yes, yes you probably are.) Better to spend summer of year 1 or year 2 getting some formats you're happy with, and then having your writing naturally flow into them in later years.
+
+### Be Structured
+
+The biggest problem with early summers is drift. And much of what I say both in this section and later is to avoid drift.
+
+- **Structure your time**: Don't just generally take it easier over summer. Give yourself proper time off. If you take two weeks vacation at the start of summer, then work hard 9-1 Monday-Friday until mid-August, and take another two weeks vacation before term restarts, you'll probably still get tons done and have lots of time to enjoy summer. I don't mean to recommend those numbers precisely (you might want different weeks, different times of day, etc, etc), but I want you to avoid sort-of-working-sort-of-not and neither getting a ton done nor getting particularly refreshed.
+- **Structure your weeks**: Have advisor meetings, reading groups, etc, to keep you in touch with others, and to have something other than "Read for 4 hours" on the calendar every single day.
+- **Structure your goals**: This is going to flow into the next step, but don't just have a goal of reading a lot, or writing a lot. Try to read X pages a day, or write Y words a day.
+
+### Have Goals
+
+This is obviously related to being structured, but it's worthwhile thinking about what you want to do over summer, not just try and make some progress on something. You want your goals to have four characteristics.
+
+- Big enough that you won't be done by May
+- Realistic enough that you will have made progress by August.
+- Flexible enough that you can adjust if you learn about interesting stuff in May.
+- Atomic enough that there is value to getting it half-way done or 3/4 done.
+
+Some goals that have these features include:
+
+- Reading all the papers from a PhilPapers topic.
+- Writing and editing something 10000 words long. (E.g., set out some time for reading and getting ideas straight, 500 words/day writing until the draft is done, then think about editing projects.)
+
+### Think Big
+
+If you've had 4 days/week of classes in a term, you know what it's like to have a spare day per week. It's very tempting to think of summer as dozens of those spare days. But I don't think that's what is most useful. Think about things that you can't do one day at a time.
+
+- **Travel**: This is expensive, but there are lots of places to travel to that are philosophically worthwhile, especially in May and June. I love being either in Scotland or Australia at these times, but they are obviously expensive. Being in California (where many schools are on quarters) is cheaper, and for all I know just as useful.
+- **Read systematically**: Actually finish books, not just skim the familiar parts. Read entire literatures, not just one or two papers plucked out of them.
+- **Rewrite something comprehensively**: When you're stuck for time, editing can be a matter of tinkering. But sometimes it needs tearing down and starting again. ('Gut renovating' in real estate terms.) And that's easier to do when you've got a continuous chunk of time.
+
+### Editing
+
+Don't just read and write - try to edit something. Even if you just start with a term paper, it could be both good exercise to go through the following steps. I think it's better to start with something that came out of a research exercise like a reading group, but the exercises are useful practice whatever you start with, and you might get something useful out of it.
+
+Here are six possible editing exercises you can do.
+
+- **Trim each sentence**. Go through the paper trying to take 2 words out of every sentence. Maybe some sentences are already sharp. But still, see what percentage you can achieve, and how much you can shorten the paper.
+- **Rearrange the sections**. Try to create a draft where the ordering of the parts is different, perhaps radically different, to how you started. Most people when they start write papers with the following structure: problem, familiar solutions with objections, new solution. If you've got a paper like that, try to rewrite it as: problem, new solution, benefits over familiar solutions.
+- **Halve it**: Imagine that there's a conference you want to send it to with a word limit half the current length. (Or, more practically, find a conference you want to send it to with a word limit half the current length.) What would you keep? What would you cut? Can you craft a version that fits.
+- **Rewrite it old school**: Print the paper out, and write a new draft without cut-and-pasting anything from the old draft. It's fine to have the printout alongside you; the aim is to mimic the pre-computer process of literally writing multiple drafts.
+- **Rewrite it new school**: Present the paper to some friends with notes but not reading it. Use an automatic transcription tool to turn it into text. See how this version of the paper (tidied up) compares to the existing version.
+- **Swap papers**: Find a friend who is also editing a paper. Write _detailed_ comments on each others' papers, both big picture and line-by-line edits. (I mostly hate Microsoft Word, but it remains the best tool I know of for the latter.) And I mean seriously edit it - this should take several hours for a reasonably detailed paper. Then when you get the edits back, go through and think about each of the suggestions and whether you want to incorporate them.
+
+### Collaborate
+
+The structure of term pushes people towards solo work fairly hard. Grades are awarded individually, which makes joint work tricky. And everyone has different schedules. Summers don't have either of these features, and you should think about how to collaborate over summer. 
+
+But summers don't just make collaboration possible, collaborations deal with many of the problems that arise over summer. If you're working with someone, then there are deadlines that are not self-imposed. The planned meetings will give you structure. And you don't get the loneliness of just going into the library or wherever every day.
+
+So think about collaborating on a project over summer. This can be as little as a writing group, where you sit in the same place (or on the same zoom call, if you can still stand zoom!) and write at the same time. It can be a reading group. Or it can be jointly working on a paper.
+
+If you do jointly work on a paper, remember the advice about experimentation. Try different kinds of divisions of labor. The big one to think about is A writes, B edits. We sometimes think the writer is the person who puts most of the words on paper (or screen). But this isn't right in philosophy. In my most cited paper, which I co-wrote with Andy Egan and John Hawthorne, I wrote most of the text. But I probably contributed less to the paper than those guys - I was basically the scribe (or at the later stages the negotiator) who could have been hired in. It's fine though, everyone contributed to the paper in equal amount, just in unequal ways. 
+
+So see what you can do working with someone else, and use the oppportunity to learn about how you collaborate well. If you get a conference paper out of this, great. (Joint presentations are more fun than solo presentations, in my opinion for both speakers and audience.) But if not, you'll have learned a lot through the process.
