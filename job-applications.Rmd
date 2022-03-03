@@ -1,0 +1,186 @@
+---
+title: "Job Applications"
+author: "Brian Weatherson"
+date: "3/2/2022"
+output: html_document
+---
+
+This note goes over what goes into a job application. A modern day academic job application (at least in philosophy, though I think elsewhere) has a lot of different documents in it. The list here is not what goes into every application - most will not ask for all of these. Nor is it complete - someone, somewhere will ask for more. But it's a bit of an overview of some things that are at least reasonably common. And the point of describing them now is that on some of them, there are at least some steps you can start taking now towards building that massive application in a few years time.
+
+### Overview
+
+Letters
+:    Cover letter
+:    Reference letters
+
+CV
+:    Your CV
+
+Research
+:    Writing sample
+:    Thesis summary
+:    Research plan
+
+Teaching
+:    Teaching statement
+:    Teaching record (primarily course evaluations)
+:    Sample syllabi
+
+Service
+:    Diversity statement
+
+### Three Goals
+
+1. Your material should be **good**. Almost goes without saying, but still, bear it in mind.
+2. Your material should be **distinctive**. It's really hard to go out there with an application that has a slightly better paper than other folks have on the nature of grounding, and an ever so idiosyncratic plan for teaching 300-level metaphysics, and not get completely lost in the wash.
+3. Your material should **cohere**. That doesn't mean that everything has to be pushing towards the same end. Indeed, you don't want to come across as a narrow specialist. But the parts should tell some kind of overall story about who you are, what you do, and, most importantly, what you are going to do.
+
+### Letters
+
+#### Cover Letter
+
+We'll start with what goes at the start, and is in some ways the most difficult part of a job application. Most job applications let you start with a letter. What you should do with that is a bit of an open question. Here are four (not entirely distinct) models.
+
+First, do basically nothing. The letter says "I'm applying for the job advertised at [wherever], I'm attaching these materials." For jobs at fancy research schools, I think that's the best cover letter. It has two advantages. First, it's easy to write. Second, it's not going to do you any harm. Most letters read to me, and I think most other faculty at research schools, as little better than the lyrics to _Paperback Writer_. But I'm reliably told this isn't the best strategy outside of research schools.
+
+Second, run your sales pitch. Say very directly who you are, and why you should be hired. On the one hand, I've never really seen this work. On the other hand, I don't see why it shouldn't.
+
+Third, pitch this school. Here's where things get into being hard work. You're going to be doing 50-100 of these applications in a pretty small amount of time. Writing a distinctive pitch for each of them is not really going to happen. But maybe you can spend 30 minutes on the department webpage, see that they've got a new PPE program, and pitch how your experience teaching PPE courses will be really helpful.
+
+Fourth, pitch why you would go there. This isn't such a big deal now that it's such a buyer's market, but the following used to happen. There's a candidate with a very-good-but-not-great application from a fancy school. And they have family in state X, and if they don't get hired at Harvard/Princeton/etc, would not mind working in X. But the only jobs in state X are really not fancy at all. Since they are not-great, they don't get hired at Harvard/Princeton. But since they are very-good, those jobs in state X don't take them seriously because they don't think they would really be interested in the job. The solution in philosophy is to say in the cover letter "My family lives in state X and I really want to work there." Does it work? Maybe. We have had cases of grads who have been passed over for jobs they would have taken because the school thought they wouldn't be able to recruit/retain the grad.
+
+This is a lot of words on something you won't really work on for a while. But it's first in the application, so it's first here.
+
+#### Reference Letters
+
+These are huge. In any US application, the application includes 3-5 letters of reference. Typically the bulk of these are from your home institution - often they all are. Typically one of them will be a designated 'teaching letter', and the rest will be primarily about your research. Not so long ago, there was a very clear division into research letters and the teaching letter. Just mentioning teaching in the research letters carried an implication that the research wasn't good enough to carry the file. But those days are gone - I talk about teaching in all my letters, and it doesn't seem to have hurt my students. And sometimes (and I think this was a UM innovation), we include a dedicated service letter. All that said, it's good to stick with the model of 3 research letters and 1 teaching letter.
+
+The teaching letter is written by someone who has seen your file and, more importantly, observed you teach. This isn't something you need to think about immediately; you want someone to see you teach close to when you're going on the market. But if you have a lot of fellowships, especially external ones, it can start to get tricky to get these observations done. So make sure that whoever you want to have writing for you has a chance to observe you teach, and talk with them about what your teaching sales pitch is. (We'll come back to that in a bit.)
+
+The research letters are incredibly important to the file, especially at research universities. And they are weird things. The convention in the US is that these letters are _long_. It's rare for them to be under 2 pages; I've seen them run to 4. The standard form is that there is a paragraph about how good the student is, then a _long_ description of what the student does, then a closing paragraph about how good the student is. Most of the time, people only really read those first and last paragraphs. So why is the stuff in the middle there? I think it's basically to prove (by demonstration) that the letter writer isn't just handing out praise; that they actually know the work and have engaged with it.
+
+So there are two things you can do very early on to make sure these letters work. First, identify reasonably early in candidacy who the letter writers will be. Usually this will be your committee, but maybe there will be reasons for it to be someone else. You might need to have some _delicate_ conversations with your advisor and/or the placement director about the suitability of some letter writers. This can partially be because you might not appreciate how muted the praise for you will be from a particular writer, or because letters from a particular person are not optimal. I don't think there is anyone at UM who quite fits the latter category, and if there was I wouldn't say anything about who it might be in writing. But there are ways for letter writers to be systematically bad. For example, some philosophers notoriously praise _everyone_, and everyone knows this, and so letters from them are not that valuable. Anyway, it can be delicate.
+
+But the other really important takeaway for you from this is that you have to get stuff to the letter writers as early as you possibly can. These letters are hard to write. We have to come up with a pitch - we normally don't really coordinate on the pitches - and be on top of the material well enough to sell it. It's actually a fair bit of work. If you spend years 3-5 basically just interacting with your advisor, and then in the summer between years 5 and 6 ask 3 other people to summarise your work for reference letters, they might not do the best job. 
+
+There is also a question of whether you should try to get outside letters, and if so how to do this. I used to think this was very important, but seeing the successes of recent grads who have not had outside letters has made me rethink this. If you have a working relationship with a well-enough-known person outside UM, I don't think it hurts to get a reference letter from someone who isn't paid to promote your work. But I don't think this is something you should rearrange your life around getting; it seems fine to get letters just from UM.
+
+One thing you should think about is how letters from non-philosophers at UM might play in your file. The norms of letter writing are rather different in different disciplines. If you want letters from folks in classics/psychology/physics/whatever other discipline you work in, you should do what you can to get those letters to go through the placement director here, so the director can screen for things that don't comply with the (idiosyncratic) norms of philosophical letter writing. This isn't because we're particularly special - I'd give the same advice to a non-philosopher getting a letter from someone in philosophy. But disciplines have idiosyncratic norms, and letters from non-philosophers can sometimes violate them. That said, such letters do seem to be valuable - especially if you're trying to prove that you're an interdisciplinary scholar.
+
+### CV
+
+I could write several thousand words on what a CV looks like, but instead I'm just going to recommend that you look around the web, especially at the websites of recently hired faculty at jobs you would like to get. Most of them will have CVs, and you should look over the format of them.
+
+This document is one that you should start working on _right now_. You should have a CV, and you should be updating it every few months. When you do a talk, teach a class, organise something, etc, it should go on the CV. You'll forget what you've done otherwise - just start recording everything right now.
+
+There is a danger that if you do things this way you'll end up cluttering the document with things that aren't important. The solution to that is to delete things from the CV that look unimportant. (Or, as I used to do, use arbitrary sortings to move the things you want to focus on up to the front. I used to have a CV that split papers into basically 'short' and 'long' because I thought my CV looked at a glance like I did nothing but write discussion notes. You can play with the format to keep the content while highlighting the highlights.) But it's much better for now to track everything, and decide in a few years what you want to keep, than to try to remember in four years whether you refereed for this conference/journal, or organised that reading group, etc.
+
+### Research
+
+#### Writing Sample
+
+At least when you're applying to jobs like at Michigan, the single most important document is the writing sample. You need a very good philosophical paper, and it needs to stand out. Beyond that, here are a few general thoughts about what makes for a good writing sample.
+
+- It needs to be polished. The best writing samples in recent classes have been ones that people have worked on for _years_.
+- It does not need to be published. Some writing sample are, but they don't need to be. Since you can't do any more polishing after publication, that's a reason to not publish early. Indeed, my standard advice is that if early stage students want to publish something, they should work on getting their second-best work published. The best work should be refined and refined and refined.
+- Some places have a word limit, but typically the skies the limit on length. I'd like to say that there is a benefit to being concise, but really I don't see it in the record. I have occasionally seen files where I would have dismissed the file because there was an obvious objection to the view, but there is a reply to the objection on page 32 or whatever. If they'd tried to keep under 30 pages, maybe I would have dismissed.
+- That said, you do need to say something in the first few pages to keep the reader interested. If you're coming from a good school, I know you can write a lit survey. Qua search committee member, I don't care - so can every other candidate. If you make me read 15 pages of lit review before saying something interesting, I might not read page 16. (I typically have other files to read too, and I'm under no obligation to read every page.) Say what you have to say first, and do the stuff you have to do - the responses to objections, the comparisons to existing views - later.
+- In some disciplines, there is a single paper that a candidate has that is their Job Market Paper (capital letters required). In philosophy there is a little more tendency to use different papers for different jobs, depending on what speciality you want to lean into. I prefer the Job Market Paper model, but I see why candidates like to lean into different aspects of their work.
+- That said, the writing sample absolutely has to be representative of your overall work. If you have a great paper on a field unrelated to your thesis, it can't be the writing sample. If the job ad explicitly allows for more than 1 writing sample, you can include the other great paper. But mostly you shouldn't. (Though see next subheading.)
+- Sadly, the writing sample has to be solo authored.
+- If the writing sample is going to be a new argument for a familiar answer to a familiar question, it better be a really really good new argument. It's so hard to stand out that way. Better to have a new answer; better yet to have a new question.
+- That said, the paper can be fairly specialised. It's meant to be serious scholarship, and you don't have to worry whether non-experts can follow every twist and turn. In those cases you need a good abstract/intro to say what you're doing and why it matters. But don't shy away from papers just because it takes real specialist knowledge to follow the moves. You're trying to impress people, not convince them. If something would be common knowledge among experts, don't waste time spelling it out. (This is potentially different in the 'job talk', where I think you do need to explain more stuff.)
+
+#### Website
+
+You should have a website, and it should feature a lot of your work. In fact, you should have that now. You probably don't want to post every half-formed thought you have. (To be sure, that's basically how I got well-known back in the blogging era, so maybe you do. But norms are different now.) But you do want to post anything that you would be happy presenting at a conference.
+
+The website can have lots of the other documents from this page. But it's really the research that's the key to it.
+
+The reason I'm so keen on people having websites is this. If you do well at a search, you'll get to a stage where at least one person in the hiring department has you as their favored candidate. And at that point your job is to give that person as many tools as they can to convince their colleagues to hire you. And what that person typically most wants is more research. I've had pretty good luck over the years convincing colleagues to take my favored candidate more seriously by pitching other papers from the candidate's website after the colleagues were underwhelmed by the writing sample. A few times this has meant my favored candidate has at least made it through one more round of cuts than they would have done; at least one time they ended up getting the job.
+
+You might worry about the flipside of that - what about the person on the search committee who doesn't want to hire you? Wouldn't having a website give them more to work with as well, as yet more illustrations of your incompetence? That's possible in theory, but less so in practice. It's hard for a paper to be so bad that people who are otherwise disposed to like you will value it at less than zero. That's to say, a paper has to be really really bad before its existence rather than non-existence counts against you. Some papers are that bad, and a website containing them could be fuel for supporters of rival candidates. But not many - in practice there's a real asymmetry here.
+
+#### Thesis Summary
+
+I'm told this is less commonly asked for than it used to be. But still, you might be asked for a 1-2 page summary of your thesis. Even if you're not asked for it, you should have such a thing at least for your committee, and for you to have a sense of what it is you say. If you can't summarise your thesis in less than the length of your thesis, it's a problem!
+
+#### Research Summary
+
+This is a 2-3 page summary of what you've done and, much more importantly, what you will do. Annoyingly, you'll probably need both a version that goes alongside a thesis summary, and a standalone version. The latter will start with, but very much will not be constituted by, a thesis summary.
+
+The plan here is to say where you're going. Ideally the person reading it should be able to see what a tenure file will look like. So it should have some combination of ideas for individual papers, and a sense of a project that will generate new ideas.
+
+There isn't anything you can do about this any time soon. Ideas for after the thesis tend to come, well, after the thesis. But the one practical thing I'd say is that even before you start to write individual papers, you should have in your mind what broader project this is part of. If all you're doing is one "Someone is wrong on the internet" paper after another, that's not really a project, and it will be reflected in a bad research summary.
+
+### Teaching
+
+#### Teaching Statement
+
+A 1-2 page document describing what you teach, how you teach it, why it's good to teach that way, and what the evidence is that you are actually good.
+
+Some of that evidence will come with the record, that I'll get to next, but for now we need an overview. Most of the time these are truly dire - one platitude after another. If you want to do well here, the big thing is standing out. And this is tricky, because it does involve taking some risks.
+
+The biggest piece of advice I'd give is **Be Specific**. Don't say that you try to get everyone involved in discussions. Do describe a technique you use to get everyone involved. Better still, describe how you've refined that technique over different classes to make it even better.
+
+One challenge here is that you need to convince the reader that you actually care about this, that teaching isn't some annoyance that you put up with so you can do what you actually want to be doing in life (e.g., writing papers on grounding). Now since a lot of candidates do regard teaching as an annoyance that pays the bills, this isn't an unfounded suspicion on the part of the reader. Saying "I love teaching" is not, in this context, remotely convincing. You've got to show it.
+
+One riskier option, and it will relate to what we'll come back to under diversity, is to highlight one particular aim or priority you have in your teaching. To take one plausible one, maybe your focus is on making sure first-generation college students thrive in the class. That's a nice aim because it has a lot of things you can actually do. (For instance, do your students know what the phrase 'office hours' means? Do you check that they do? If so, say this in the statement!) The danger here is that having an aim requires not having other aims. (It's meaningless to say that you have 17 different priorities.) And the reader might not like how much that means you play down other aims. I think it's worth the risk to set out to do something in particular, knowing that not everyone will think it is the number one priority, because the biggest danger here is just getting lost in the wash. But it is a risk, and maybe someone whose file is otherwise outstanding shouldn't take such risks.
+
+The practical advice for right now is to keep a record of what in particular you do in class. In your first classes, it doesn't matter if it's good or bad, just that it's distinctive. A story like "Here's what I thought would work, but it didn't, and here's how I fixed it", can be great - as long as the initial thought isn't completely absurd. If it does work, great! But don't just hand wave at how much you care about connecting with the students and getting them to love philosophy and so on. Everyone says those platitudes. What can you say that's different?
+
+The statement should also connect with the what comes next, the teaching dossier.
+
+#### Teaching Dossier
+
+This actually covers a grab-bag of things that may include:
+
+- Course evaluations starting from the first course you've taught. This includes both numerical evaluations and quotes from the verbal evaluations. (UM has some tools to systematise these - talk to the GSI coordinator about them.)
+- A list of courses that you've taught, highlighting the independent parts you did.
+- Teacher training that you've done - you should be recording every CRLT thing you went to for this purpose.
+- Any other formal records of your teaching.
+
+Don't worry if your initial evaluations are awful. If your final evaluations are great, we'll sell the upwards trajectory in the evaluations. If your final evaluations aren't great, it won't matter what the initial ones were.
+
+There is much more hostility towards the use of numerical evaluations than there was 5 years ago, and I don't know how big a deal these formal measures will be in 3-5 years time. But we record them, so you should use them.
+
+#### Sample Syllabi
+
+These can be kind of fun, though some people overdo them. It's common in a job application to include syllabi for the courses you might teach. The overdoing is when you include too many gimmicky courses. Would it be fun to teach on Philosophy and Martial Arts? Would it be fun to teach on Philosophy and Modern Art? Sure, I guess. Will you get a job where you can teach one of these as part of your rotation? Probably not, but you can try. Can you get a job where you'll teach both? No - that's not going to happen.
+
+What's best here is to have something like the following:
+
+- A generic intro course; either 101 or some other big course.
+- A mid-level course in or around your specialisation.
+- A quirky course that expands the curriculum, brings in more students.
+
+People doing these sample syllabi spend a lot of time thinking about the readings, and that's a big deal. But do spend a bit of time thinking about the assessments, and in particular how the assessments will relate to the particular kind of course it is. That's where you can really show how much you care about teaching as such, and not just how much you want to bring your obsession with Philosophy and Picasso or whatever into the classroom.
+
+### Service and Diversity
+
+#### Diversity Statement
+
+This has quickly become one of the hottest flashpoints in hiring. Lots of jobs ask for a diversity statement, or DEI (Diversity, Equity and Inclusion) statement. And lots of traditionalists get mad at the idea of this, or at what goes in these statements. Personally, I think they're great - there is no other part of the file where I can tell as much about a candidate in 1 page as I can here. They are just about the first thing I read. But I'm a weirdo; don't assume people are like me.
+
+In practice, this should be a 1 page (maybe 2 page) statement saying what you've done for improving the demographics in philosophy, and what you're going to do. At risk of repeating myself, the aims here are to **Be Specific** and **Stand Out**. 
+
+It's really easy to not stand out. Is it good to teach Elizabeth alongside Descartes in your intro unit on dualism? Yes it is. Will being one of 50 people to say you're doing that make you stand out? No it will not. If you lead with that, will people who actually care about this stuff think you are doing literally the least you can do? Yes, yes they will.
+
+A lot of universities have DEI hiring initiatives these days. (That's how we hired Maegan and Emmalon.) For those jobs, the university (or at least the Dean) has to approve hiring the person the department wants. And, typically, more departments will apply for these positions than there are positions to be shared around. And they won't be comparing your paper on modal metaphysics with someone else's paper on astrophysics; they'll be comparing these statements. So make the statement readable to a non-philosopher. Or, at least, have a version of the statement that is readable to a non-philosopher.
+
+At some universities, you can account for the fact that someone who is not a rich, white, straight, cis male will, by their mere presence, change the demographics of the department. But at other places, like Michigan, you are barred by law from considering that. At the latter kind of place, what matters is good deeds, not good identity(/faith). And in any case, it's much more compelling to talk about what you are doing for others than to talk about how you don't fit into 2 of the 5 categories I mentioned above. So talk about what you do, and what you will do going forward. 
+
+I've put this under service, but obviously your teaching and possibly your research matter here too. It is good to include ways in which you try to make your classroom more inclusive. This can include a more diverse curriculum, though note that there isn't a ton of empirical evidence this makes a difference. It can also include ways in which your research promotes DEI goals. This can be especially relevant for folks working on ethics and tech. But you don't need a research angle here. Note that we hired someone doing modal metaphysics on one of these lines - a very impressive teaching and service dossier is more than enough.
+
+### Summary
+
+Well that's a lot! The big immediate takeaways are
+
+1. Start making a CV.
+2. Keep notes on your teaching, especially on what changes you make in response to how things go.
+3. Once you start research, make sure you keep more people involved than just your advisor.
+4. Have a plan - don't just write 3 papers on 3 things you cared about that semester.
+
+And once you get far enough along, start working on these documents well well in advance of the job market. They will not write themselves, and they won't come into existence overnight. 
+
+
